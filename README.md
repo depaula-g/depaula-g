@@ -22,9 +22,7 @@ Tenho interesse em programação e, atualmente, estou aprendendo mais sobre **Py
 
 ### 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](COLE_SEU_LINKEDIN_AQUI)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:SEUEMAIL@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:guilhermedepaulaalves10@gmail.com)
 
 ---
 
